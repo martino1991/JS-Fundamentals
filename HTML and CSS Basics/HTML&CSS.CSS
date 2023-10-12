@@ -1,0 +1,35 @@
+strong {
+    color:rgb(91, 165, 42);
+}
+li {
+    color:darkgoldenrod;
+    
+}
+ul {
+    display: inline-block;
+    list-style: square;
+    background-color:rgb(199, 243, 243);
+}
+h1{
+    text-align: center;
+}
+.site-content{
+    color:rgb(2, 2, 2) //може и width това е дължината на текста например : width = 100px;
+                          // или маржина това премства текста например : margin : auto;
+}
+
+.connection {
+    color:rgb(151, 20, 20);
+    
+
+
+}
+.primer {
+    display: inline-block;
+    background-color: rgb(218, 173, 173);
+}
+h1{
+    background-color: rgb(196, 216, 21);
+    width: 300px;
+    margin: auto;
+}
